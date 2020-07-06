@@ -1,9 +1,9 @@
-# End Of Field Challenge 
+# <b> End Of Field Challenge </b> 
 
 Final test for the field stage.
 
 
-# The interfaces can be found below
+#  The interfaces can be found below 
 
 - [Interface 1 - Simple (14)](https://github.com/ErAsuratya/end-of-field-challenge)
 - [Interface 2 - Simple (17)](https://github.com/ErAsuratya/end-of-field-challenge)
@@ -11,21 +11,24 @@ Final test for the field stage.
 
 ---
 
-### Interface 1 - Simple (14) 
+### *Interface 1 - Simple (14)*
 
-![Interface 1 - Simple-14](images\interface-14.png)
+![Interface 1 - Simple-14](https://github.com/ErAsuratya/end-of-field-challenge/blob/master/images/interface-14.png)
 
-### Interface 2 - Simple (17) 
+###  *Interface 2 - Simple (17)* 
 
-![Interface 2 - Simple-17](images\interface-17.png)
+![Interface 2 - Simple-17](https://github.com/ErAsuratya/end-of-field-challenge/blob/master/images/interface-17.png)
 
-### Interface 3 - Complex (01) 
+### *Interface 3 - Complex (01)*
 
-![Interface 3 - Complex-01](images\complex-01.png)
+![Interface 3 - Complex-01](https://github.com/ErAsuratya/end-of-field-challenge/blob/master/images/complex-01.png)
 
 ---
 
-## <b>Built with</b> 🛠
+## Built with 
 
 - [Visual Studio Code](https://code.visualstudio.com/)
 ---
+
+#### Creator
+[*ErAsuratya*](https://github.com/ErAsuratya/)
