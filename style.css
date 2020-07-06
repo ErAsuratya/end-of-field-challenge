@@ -1,0 +1,60 @@
+/* apply a natural box layout model to all elements, but allowing components to change */
+body {
+  width: 359px;
+  height: 293px;
+  background-color: #f5f5f5;
+  margin: 0;
+  padding: 18%;
+}
+
+.first-header {
+  font-family: "Roboto", sans-serif;
+  color: #7c7c7c;
+}
+.int-simple-14 {
+  width: 359px;
+  height: 293px;
+  background-color: #f5f5f5;
+}
+
+.big-text {
+  font-size: 30px;
+  font-weight: bold;
+  text-transform: capitalize;
+  font-family: "Noto Serif", serif;
+}
+
+.purple-text {
+  color: #943475;
+}
+
+.rem-text {
+  color: #0d0d0d;
+}
+
+.small-text {
+  font-family: "Lato", sans-serif;
+  color: #666666;
+  font-size: 18px;
+  font-weight: bold;
+  line-height: 30px;
+  padding-bottom: 20px;
+}
+
+button {
+  background-color: #ff7731;
+  color: white;
+  font-size: 20px;
+  border-radius: 10px;
+  border: none;
+  text-align: center;
+  height: 60px;
+  width: 250px;
+}
+
+.button-pic {
+  padding-top: 7px;
+  padding-right: 20px;
+  height: 20px;
+  width: 25px;
+}
