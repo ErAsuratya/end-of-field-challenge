@@ -1,0 +1,28 @@
+html,
+body {
+  background-color: lightgray;
+}
+
+header {
+  font-family: "Roboto Slab", serif;
+  font-size: 30px;
+  text-align: center;
+  padding-bottom: 50px;
+}
+
+nav a {
+  text-decoration: none;
+  font-style: oblique;
+  font-weight: bolder;
+  font-size: 30px;
+  color: rebeccapurple;
+  line-height: 45px;
+}
+
+nav {
+  text-align: center;
+}
+
+ul {
+  list-style: none;
+}

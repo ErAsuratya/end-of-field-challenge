@@ -1,9 +1,14 @@
-body {
-  width: 359px;
-  height: 293px;
+html {
+  align-content: center;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+}
+.int-simple-14 {
   background-color: #f5f5f5;
   margin: 0;
-  padding: 18%;
+  padding: 60px;
 }
 
 .first-header {
