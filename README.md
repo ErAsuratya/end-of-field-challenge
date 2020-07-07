@@ -5,9 +5,9 @@ Final test for the field stage.
 
 #  The interfaces can be found below 
 
-- [Interface 1 - Simple (14)](https://github.com/ErAsuratya/end-of-field-challenge)
-- [Interface 2 - Simple (17)](https://github.com/ErAsuratya/end-of-field-challenge)
-- [Interface 3 - Complex (1)](https://github.com/ErAsuratya/end-of-field-challenge)
+- [Interface 1 - Simple (14)](https://mausam-end-of-field-challenge.netlify.app/simple-interface(14).html)
+- [Interface 2 - Simple (17)](https://mausam-end-of-field-challenge.netlify.app/simple-interface(17).html)
+- [Interface 3 - Complex (1)](https://mausam-end-of-field-challenge.netlify.app/complex-interface(01).html)
 
 ---
 
