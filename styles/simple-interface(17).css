@@ -1,41 +1,96 @@
-html {
-  align-content: center;
-  position: absolute;
-  left: 30%;
-  top: 30%;
-  transform: translate(0%, -50%);
-  line-height: 20px;
+html,
+body {
+  height: 100%;
+  width: 100%;
 }
-.int-simple-17 {
-  margin: 0;
-  padding: 60px;
-  width: 280px;
-  height: 200px;
-  background-color: #ffffff;
-  padding-bottom: 100px;
+*,
+*:before,
+*:after {
+  box-sizing: border-box;
+}
+
+.frame {
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+  flex-wrap: center;
+  opacity: 0.0;
+  z-index: 10;
+  pointer-events: none;
+  position: absolute;
+  height: 337px;
+  width: 321px;
+}
+
+.container {
+  height: 337px;
+  width: 321px;
 }
 
 .first-header {
-  font-family: "Fira Sans", sans-serif;
+  font-family: "Roboto", sans-serif;
   color: #434343;
   font-weight: bold;
-  font-size: 40px;
+  font-size: 45px;
+  padding-top: 35px;
+  padding-left: 10px;
+  line-height: 0px;
+}
+
+hr {
+  background-color: #ecf4f3;
+  border: none;
+  height: 0.5px;
 }
 
 .orange-text {
   color: #ff7731;
   font-family: "Fira Sans", sans-serif;
-  font-size: 30px;
+  font-size: 35px;
   font-weight: bolder;
+  line-height: 0px;
+  padding-left: 12px;
+  letter-spacing: 2px;
 }
 
 .rem-texts {
   font-family: "Fira Sans", sans-serif;
-  color: #4e5050;
-  font-size: 15px;
+  color: #404040;
+  padding-left: 12px;
+}
+
+.long-texts {
+  font-size: 16px;
+  line-height: 23px;
+  letter-spacing: 0px;
+}
+.short-texts {
+  padding-top: 6px;
+  line-height: 22px;
+  font-size: 16px;
 }
 
 span {
+  font-size: 16px;
   font-weight: bold;
-  color: #434343;
+  color: #4c4c4c;
+  letter-spacing: 0.3px;
+}
+.footer {
+  background-color: #1c87c9;
+  border: none;
+  border-radius: 10px;
+  color: white;
+  height: 20px;
+  width: 50px;
+  text-decoration: none;
+  display: inline-block;
+  padding-top: 4px;
+  font-size: 10px;
+  cursor: pointer;
+  align-content: center;
+}
+nav {
+  text-align: center;
+  padding-top: 50px;
 }
